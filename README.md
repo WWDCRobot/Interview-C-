@@ -1,0 +1,1 @@
+I'm looking for a job about algorithm. Here is my C++ preparation.
